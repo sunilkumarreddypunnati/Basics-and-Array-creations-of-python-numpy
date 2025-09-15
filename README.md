@@ -7,16 +7,17 @@ It features practical tasks covering 1D & 2D array creation, indexing, slicing, 
 
 | 🧪 Task File | 📄 Description | 📷 Output Screenshot |
 |--------------|----------------|-------------------|
-[problem1.py](Basics%20%26%20Array%20Creation%20in%20numpy/problem1.py) | ➕ Create NumPy arrays from Python lists | [problem 1.png](problem%201.png)
-[problem2.py](Basics%20%26%20Array%20Creation%20in%20numpy/problem2.py) | 🔢 Create arrays using `arange()` | [problem 2.png](problem%202.png)
-[problem3.py](Basics%20%26%20Array%20Creation%20in%20numpy/problem3.py) | 🧮 Initialize arrays with `zeros()` & `ones()` | [problem 3.png](problem%203.png)
-[problem4.py](Basics%20%26%20Array%20Creation%20in%20numpy/problem4.py) | 🎛️ Reshape arrays using `reshape()` | [problem 4.png](problem%204.png)
-[problem5.py](Basics%20%26%20Array%20Creation%20in%20numpy/problem5.py) | 🔄 Indexing & slicing arrays | [problem 5.png](problem%205.png)
-[problem6.py](Basics%20%26%20Array%20Creation%20in%20numpy/problem6.py) | ✖️ Element-wise arithmetic operations | [problem 6.png](problem%206.png)
-[problem7.py](Basics%20%26%20Array%20Creation%20in%20numpy/problem7.py) | 🧊 Multi-dimensional arrays | [problem 7.png](problem%207.png)
-[problem8.py](Basics%20%26%20Array%20Creation%20in%20numpy/problem8.py) | 🔍 Access rows, columns & elements | [problem 8.png](problem%208.png)
-[problem9.py](Basics%20%26%20Array%20Creation%20in%20numpy/problem9.py) | 🔗 Iterating through arrays | [problem 9.png](problem%209.png)
-[problem10.py](Basics%20%26%20Array%20Creation%20in%20numpy/problem10.py) | 📊 Combine arrays & flatten | [problem 10.png](problem%2010.png)
+[problem1.py](Basics%20and%20Array%20Creation%20in%20numpy/problem1.py) | ➕ Create NumPy arrays from Python lists | ![problem 1](problem%201.png)
+[problem2.py](Basics%20and%20Array%20Creation%20in%20numpy/problem2.py) | 🔢 Create arrays using `arange()` | ![problem 2](problem%202.png)
+[problem3.py](Basics%20and%20Array%20Creation%20in%20numpy/problem3.py) | 🧮 Initialize arrays with `zeros()` & `ones()` | ![problem 3](problem%203.png)
+[problem4.py](Basics%20and%20Array%20Creation%20in%20numpy/problem4.py) | 🎛️ Reshape arrays using `reshape()` | ![problem 4](problem%204.png)
+[problem5.py](Basics%20and%20Array%20Creation%20in%20numpy/problem5.py) | 🔄 Indexing & slicing arrays | ![problem 5](problem%205.png)
+[problem6.py](Basics%20and%20Array%20Creation%20in%20numpy/problem6.py) | ✖️ Element-wise arithmetic operations | ![problem 6](problem%206.png)
+[problem7.py](Basics%20and%20Array%20Creation%20in%20numpy/problem7.py) | 🧊 Multi-dimensional arrays | ![problem 7](problem%207.png)
+[problem8.py](Basics%20and%20Array%20Creation%20in%20numpy/problem8.py) | 🔍 Access rows, columns & elements | ![problem 8](problem%208.png)
+[problem9.py](Basics%20and%20Array%20Creation%20in%20numpy/problem9.py) | 🔗 Iterating through arrays | ![problem 9](problem%209.png)
+[problem10.py](Basics%20and%20Array%20Creation%20in%20numpy/problem10.py) | 📊 Combine arrays & flatten | ![problem 10](problem%2010.png)
+
 
 
 ## ✅ What I Practiced
