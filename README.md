@@ -7,7 +7,7 @@ It features practical tasks covering 1D & 2D array creation, indexing, slicing, 
 
 | 🧪 Task File | 📄 Description | 📷 Output Screenshot |
 |--------------|----------------|-------------------|
-[problem 1.py](Basics%20and%20Array%20Creation%20in%20numpy/problem 1.py) | ➕ Create NumPy arrays from Python lists | ![problem 1](problem%201.png)
+[[problem 1.py](Basics%20and%20Array%20Creation%20in%20numpy/problem%201.py) | ➕ Create NumPy arrays from Python lists | ![problem 1](problem%201.png)
 [problem 2.py](Basics%20and%20Array%20Creation%20in%20numpy/problem 2.py) | 🔢 Create arrays using `arange()` | ![problem 2](problem%202.png)
 [problem 3.py](Basics%20and%20Array%20Creation%20in%20numpy/problem 3.py) | 🧮 Initialize arrays with `zeros()` & `ones()` | ![problem 3](problem%203.png)
 [problem 4.py](Basics%20and%20Array%20Creation%20in%20numpy/problem 4.py) | 🎛️ Reshape arrays using `reshape()` | ![problem 4](problem%204.png)
