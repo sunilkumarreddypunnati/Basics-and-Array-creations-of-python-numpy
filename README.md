@@ -20,6 +20,7 @@ It features practical tasks covering 1D & 2D array creation, indexing, slicing, 
 
 
 
+
 ## ✅ What I Practiced
 - 📌 Creating 1D and 2D arrays from lists and ranges  
 - 🔄 Indexing, slicing, and accessing array elements  
